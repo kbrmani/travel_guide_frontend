@@ -1,0 +1,11 @@
+li:hover{
+  color: goldenrod;
+}
+
+li{
+  cursor: pointer;
+}
+
+span{
+  cursor: pointer;
+}
